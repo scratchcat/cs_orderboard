@@ -1,0 +1,1 @@
+Normal maven project. Run on java 1.8+. Junit tests (run by mvn) and a main program to check thread safety (run by hand). Thanks.
